@@ -1,3 +1,5 @@
 # design-pattern-golang
 
-设计模式-Golang
+Go 语言设计模式的实例代码
+
+
